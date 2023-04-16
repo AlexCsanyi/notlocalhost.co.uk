@@ -1,0 +1,28 @@
+{
+  "name": "notlocalhost.co.uk",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^2.3.0"
+  },
+  "description": "``` npm create astro@latest -- --template basics ```",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexCsanyi/notlocalhost.co.uk.git"
+  },
+  "author": "Alex Csanyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexCsanyi/notlocalhost.co.uk/issues"
+  },
+  "homepage": "https://github.com/AlexCsanyi/notlocalhost.co.uk#readme"
+}
